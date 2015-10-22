@@ -1,2 +1,2 @@
 # stock_api
-Week 3 homework.
+Wyncode week 3 homework: stock market api
